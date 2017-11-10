@@ -6,6 +6,10 @@ The coin problem (Frobenius problem) is a mathematical problem that asks what is
 
 [Link to Wiki](http://www.thefullwiki.org/Frobenius_number#cite_note-ramirez-0)
 
-[Link to MathWorld](http://mathworld.wolfram.com/FrobeniusNumber.html)
+[Link to MathWorld I](http://mathworld.wolfram.com/FrobeniusNumber.html)
+
+[Link to MathWorld II](http://mathworld.wolfram.com/CoinProblem.html)
+
+[Link to MathWorld III](http://mathworld.wolfram.com/FrobeniusEquation.html)
 
 [Link to Wolfram Mathematica](http://reference.wolfram.com/language/ref/FrobeniusNumber.html)
