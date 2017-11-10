@@ -55,10 +55,10 @@ constexpr CommonGCD (const TypeIt first, const TypeIt last) noexcept
  * typename std::enable_if_t<std::is_integral<Type>::value && std::is_signed<Type>::value, Type>
  * constexpr FrobeniusNumber (std::vector<Type> &) noexcept;
  *
- * @brief Function that calculates the Frobenius Number.
+ * @brief Function that calculates the Frobenius Number of the set of numbers.
  * @tparam [in] Type - Template arithmetic signed value type of input numbers.
  * @tparam [in] InitNumbersList - Input values for calculation.
- * @return The Frobenius Number of the set numbers.
+ * @return The Frobenius Number of the set of numbers (Type::infinity - if an error occurred).
  */
 template <typename Type>
 typename std::enable_if_t<std::is_integral<Type>::value && std::is_signed<Type>::value, Type>
